@@ -29,4 +29,14 @@ Collection of chess puzzles I find interesting
       </details>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>4. <a href="https://lichess.org/VzXXPXkr#32">Ivan Povshednyi - Nataliya Buksa</a></h3>
+      <img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1bp1bppp%2Fpp6%2F4P3%2F4pB2%2F6P1%2FqPQ1PPBP%2F2RR2K1%20w%20-%20-%200%2017&color=white&lastMove=b3b5&variant=standard&theme=wood&piece=merida" alt="Ivan Povshednyi - Nataliya Buksa" width="400" />
+      <details>
+        <summary>Solution</summary>1. Bh3 {threatening to trap Black's queen} Rcd8 2. Qxc7 {Not Ra1 as 2. ... Rd1 and queen escapes} 
+      </details>
+    </td>
+  </tr>
+  
 </table>
