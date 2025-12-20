@@ -48,7 +48,7 @@ Collection of chess puzzles I find interesting
       <h3>6. <a href="https://lichess.org/77u3ijqH#50">Alexander Gelman - Levon Aronian</a></h3>
       <img src="https://lichess1.org/export/fen.gif?fen=2r4r%2F1p1bk3%2Fpq2pp1P%2F3p2p1%2F3P2P1%2FP1N3K1%2F1PPQ4%2F5R1R%20w%20-%20-%203%2026&color=white&lastMove=f7e7&variant=standard&theme=wood&piece=merida" alt="JAlexander Gelman - Levon Aronian" width="400" />
       <details>
-        <summary>Solution</summary>1. Ne6+ fe 2. Rf1+
+        <summary>Solution</summary>1. Rxf6 Qd6+ 2. Kg2 Kxf6 3. Rf1+ Ke7 4. Qxg5+ Ke8 5. Qg7 Rf8 6. h7 Rxf1 7. Kxf1 Qf4+ 8. Ke1 {if Ke2 then the bishop joins the party Bb5+ with a perpetual}
       </details>
     </td>
   </tr>
