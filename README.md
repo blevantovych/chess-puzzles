@@ -37,6 +37,13 @@ Collection of chess puzzles I find interesting
         <summary>Solution</summary>1. Bh3 {threatening to trap Black's queen} Rcd8 2. Qxc7 {Not Ra1 as 2. ... Rd1 and queen escapes} 
       </details>
     </td>
+    <td>
+      <h3>5. <a href="https://lichess.org/VzXXPXkr#32">Javokhir Sindarov - Jules Moussard</a></h3>
+      <img src="2r2k2%2Fpp3pbQ%2F1n1q2p1%2F6N1%2F8%2F2N5%2FPPP3P1%2F2K1R3%20w%20-%20-%202%2024&color=white&lastMove=b3b5&variant=standard&theme=wood&piece=merida" alt="Javokhir Sindarov - Jules Moussard" width="400" />
+      <details>
+        <summary>Solution</summary>1. Ne6+ fe 2. Rf1+
+      </details>
+    </td>
   </tr>
   
 </table>
