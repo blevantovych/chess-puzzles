@@ -44,6 +44,13 @@ Collection of chess puzzles I find interesting
         <summary>Solution</summary>1. Ne6+ fe 2. Rf1+
       </details>
     </td>
+    <td>
+      <h3>6. <a href="https://lichess.org/77u3ijqH#50">Alexander Gelman - Levon Aronian</a></h3>
+      <img src="https://lichess1.org/export/fen.gif?fen=2r4r%2F1p1bk3%2Fpq2pp1P%2F3p2p1%2F3P2P1%2FP1N3K1%2F1PPQ4%2F5R1R%20w%20-%20-%203%2026&color=white&lastMove=f7e7&variant=standard&theme=wood&piece=merida" alt="JAlexander Gelman - Levon Aronian" width="400" />
+      <details>
+        <summary>Solution</summary>1. Ne6+ fe 2. Rf1+
+      </details>
+    </td>
   </tr>
   
 </table>
